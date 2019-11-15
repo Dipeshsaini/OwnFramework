@@ -1,0 +1,16 @@
+PODS:
+  - OwnFramework (1.0.0)
+
+DEPENDENCIES:
+  - OwnFramework (from `../OwnFramework/`)
+
+EXTERNAL SOURCES:
+  OwnFramework:
+    :path: "../OwnFramework/"
+
+SPEC CHECKSUMS:
+  OwnFramework: 3aa4c5a3d0cab87a6e9459caead52b4c567b88a1
+
+PODFILE CHECKSUM: 7011a921969b67e7484ae9152bc81bbd61450bb1
+
+COCOAPODS: 1.8.4
